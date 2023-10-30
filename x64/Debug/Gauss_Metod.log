@@ -1,0 +1,46 @@
+﻿  Gauss_Metod.cpp
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(103,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(164): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<T>"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(103,1): error C2433: istream: "friend" не разрешается для объявлений данных
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(103,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(104,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(110,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(110,1): error C2433: ostream: "friend" не разрешается для объявлений данных
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(110,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(111,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(199,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(232): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<Vector,T>"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(199,1): error C2433: istream: "friend" не разрешается для объявлений данных
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(199,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(200,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(213,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(213,1): error C2433: ostream: "friend" не разрешается для объявлений данных
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(213,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(214,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(314,6): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(327): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MatrixGausse<Vector,T>"
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(314,6): error C3861: cout: идентификатор не найден
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(322,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(322,4): error C3861: cout: идентификатор не найден
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(325,3): error C3861: cout: идентификатор не найден
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(331,12): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(331,2): error C3861: setlocale: идентификатор не найден
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(332,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(332,58): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(335,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(338,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(338,47): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(338,136): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(338,201): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(339,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(344,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(344,47): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(347,3): error C2065: cin: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(350,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(350,54): error C2065: endl: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(351,2): error C2065: cin: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(352,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Evgeni\source\repos\Gauss_Metod\Gauss_Metod.cpp(352,43): error C2065: endl: необъявленный идентификатор
